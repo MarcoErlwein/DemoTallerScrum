@@ -2,7 +2,7 @@
     Inherits System.Web.Mvc.Controller
 
     Function Index() As ActionResult
-        '' Cambio en GitHub
+        '' Cambio por CI desde Github
         Return View()
     End Function
 
